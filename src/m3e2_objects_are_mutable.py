@@ -48,7 +48,7 @@ def main():
     print(point, point2)  # Prints the two DIFFERENT zg.Points
 
     # ------------------------------------------------------------------
-    # Shows the difference betwee the   is   operator
+    # Shows the difference between the   is   operator
     #    (two things refer to the same place in memory)
     # and the   ==   operator (two things contain the same data).
     # ------------------------------------------------------------------
